@@ -81,3 +81,17 @@ iframe {
   height: 400px;
   margin-top: 20px;
 }
+.course-list {
+  padding-left: 0;
+}
+
+.course-list li {
+  display: flex;
+  padding: 8px 0;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.course-list li button {
+  margin-top: 0;
+}
